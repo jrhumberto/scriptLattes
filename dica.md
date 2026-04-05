@@ -23,6 +23,7 @@ Ao rodar
 python3 http://scriptLattes.py exemplo/file.config 
 
 temos o resultado esperado. Espectacular.
+![HBDcAR9aMAAOezr](https://github.com/user-attachments/assets/34a7d070-9e2c-4e55-bd57-7c12a753045d)
 
 
 ![HBDcAR9aMAAOezr](https://github.com/user-attachments/assets/02c03f9b-ff3c-491a-880a-8877575f952a)
